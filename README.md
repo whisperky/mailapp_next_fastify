@@ -53,25 +53,25 @@ A modern web application for managing emails with a clean, Apple Mail-style inte
 
 ### Frontend Structure
 
-frontend/
-├── src/
-│ ├── pages/ # Next.js pages
-│ ├── styles/ # Global styles and CSS modules
-│ ├── components/ # Reusable React components
-│ └── theme/ # MUI theme configuration
-├── public/ # Static assets
-└── package.json # Dependencies and scripts
+#### frontend/
+#### ├── src/
+#### │ ├── pages/ # Next.js pages
+#### │ ├── styles/ # Global styles and CSS modules
+#### │ ├── components/ # Reusable React components
+#### │ └── theme/ # MUI theme configuration
+#### ├── public/ # Static assets
+#### └── package.json # Dependencies and scripts
 
 ### Backend Structure
 
-backend/
-├── src/
-│ ├── db/ # Database configuration and repositories
-│ ├── routes/ # API route handlers
-│ └── services/ # Business logic
-├── migrations/ # Database migrations
-├── tests/ # Test files
-└── package.json # Dependencies and scripts
+#### backend/
+#### ├── src/
+#### │ ├── db/ # Database configuration and repositories
+#### │ ├── routes/ # API route handlers
+#### │ └── services/ # Business logic
+#### ├── migrations/ # Database migrations
+#### ├── tests/ # Test files
+#### └── package.json # Dependencies and scripts
 
 ## 🚀 Getting Started
 
